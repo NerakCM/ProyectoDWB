@@ -1,8 +1,18 @@
 # Proyecto
-Proyecto de la materia Desarrollo Web Backend
+Proyecto de la materia Desarrollo Web Backend (2023-2)
 
-# NOTA: 
-Antes de ejecutar el proyecto, bajar la carpeta "config-data" del otro repo.
+# NOTAS: 
+• La carpeta "config-data" se encuentra en el siguiente repositorio: https://github.com/DemianGT/config-data.git
+
+• El orden de ejecución es el siguiente:
+
+      1. config-service
+      
+      2. registry-service
+      
+      3. gateway-service
+      
+      4. admin-service
 
 ## Integrantes del equipo 
 * Demian Oswaldo García Toxqui <demiangt17@ciencias.unam.mx>
